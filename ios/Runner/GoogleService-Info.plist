@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GIDClientID</key>
+	<string>820713124369-7l3oig60r28ee3vagb8ouhogs6g2tdtk.apps.googleusercontent.com</string>
+	<key>CLIENT_ID</key>
+	<string>820713124369-7l3oig60r28ee3vagb8ouhogs6g2tdtk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.820713124369-7l3oig60r28ee3vagb8ouhogs6g2tdtk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOPjQ8T9uZnlCOMbgGGg6aKXUrR4KYJ-U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820713124369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zoomClone</string>
+	<key>PROJECT_ID</key>
+	<string>voomeet-12c9c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voomeet-12c9c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820713124369:ios:371bfef01167c2e3a477b0</string>
+</dict>
+</plist>
