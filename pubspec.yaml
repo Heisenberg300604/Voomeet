@@ -38,6 +38,11 @@ dependencies:
   firebase_auth: ^5.6.2
   cloud_firestore: ^5.6.11
   google_sign_in: ^7.1.1
+  uuid: ^4.0.0
+  zego_uikit_prebuilt_call: ^4.17.7
+  zego_zim: ^2.21.1+1
+  intl: ^0.18.1
+  permission_handler: ^11.3.1
 
 dev_dependencies:
   flutter_test:
