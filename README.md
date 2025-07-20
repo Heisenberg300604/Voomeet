@@ -1,4 +1,4 @@
-# Zoom Clone (Voomeet) [ Under Development ]
+# Voomeet [ Under Development ]
 
 A cross-platform (Android & iOS) video conferencing app inspired by Zoom, built with Flutter.
 
@@ -32,7 +32,7 @@ A cross-platform (Android & iOS) video conferencing app inspired by Zoom, built 
   - Firebase Auth
   - Firestore
   - Google Sign In
-  - Jitsi Meet
+  - Zego Cloud
 
 ---
 
